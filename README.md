@@ -1,5 +1,5 @@
 # readability
-Implements a program that calculates using the Coleman Liau index the approximate grade level needed to comprehend some text.
+Implements a program that calculates using the [Coleman Liau Index](https://en.wikipedia.org/wiki/Coleman%E2%80%93Liau_index) the approximate grade level needed to comprehend some text.
 
 # Example
 ![image](https://github.com/Aeziren/readability/assets/123553708/c219c37e-59af-49ed-a821-6f67426e15e1)
